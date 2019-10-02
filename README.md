@@ -12,6 +12,8 @@ Make a GitHub account and populate your bio by including your research interests
 
 _Include the link to your GitHub profile here._
 
+**[My GitHub Account](https://github.com/haitell)**
+
 ## Problem 2
 
 **10 points**
@@ -39,6 +41,8 @@ Publish `tfcb-homework01` to GitHub using GitHub Desktop. Make sure to set this 
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
 
+**[My TFCB Homework #1 Repo](https://github.com/haitell/tfcb-homework01)**
+
 ## Problem 4
 
 **10 points**
@@ -50,6 +54,12 @@ Organize files into a more consistent structure. Group images into a `images/` d
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
 _Include the commit URL for your reorganized project here._
+
+_**I did this in two commits:**_
+
+**[First Commit for this Problem](https://github.com/haitell/tfcb-homework01/commit/3e6cff03270861eae1e56dd8f689dba71f672753)**
+
+**[Second Commit for this Problem](https://github.com/haitell/tfcb-homework01/commit/b51ee62d458f0824ea87443ec16dd5ce04b6e077)**
 
 ## Problem 4
 
